@@ -1,6 +1,6 @@
 # Friendly-dance
 #A stickman walking into frame, waving hello, dancing, waving goodbye, and leaving.
-
+# Its purpose is to entertian with short animation of a friendly stickman. 
 import simplegui
 import random
 counter= 0
